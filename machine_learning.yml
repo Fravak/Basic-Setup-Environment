@@ -1,6 +1,5 @@
 name: Machine_Learning_mod
 channels:
-    - https://conda.anaconda.org/menpo
     - conda-forge
 dependencies:
     - python==3.5.2

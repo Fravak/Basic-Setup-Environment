@@ -7,11 +7,9 @@ dependencies:
     - numpy
     - matplotlib
     - jupyter
-    - scikit-learn
     - scipy
     - seaborn
     - pandas
     - tqdm
-- findspark
-- pyspark
+    - findspark
 
